@@ -190,7 +190,7 @@ plt.show()
 ```
 
 
-![png](figs/figs/output_8_0.png)
+![png](figs/output_8_0.png)
 
 
 
@@ -291,7 +291,7 @@ plt.show()
 
 
 
-![png](figs/figs/output_11_1.png)
+![png](figs/output_11_1.png)
 
 
 # Well with external electric field
@@ -384,7 +384,7 @@ plt.show()
 
 
 
-![png](figs/figs/output_13_1.png)
+![png](figs/output_13_1.png)
 
 
 
